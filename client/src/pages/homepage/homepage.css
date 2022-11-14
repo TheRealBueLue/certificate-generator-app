@@ -1,0 +1,115 @@
+body {
+  background-color: aliceblue;
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  overflow-x: hidden;
+}
+
+.containerHomepage {
+  box-shadow: 0px 0px 15px 3px rgba(69, 69, 69, 0.65);
+  -webkit-box-shadow: 0px 0px 15px 3px rgba(69, 69, 69, 0.65);
+  -moz-box-shadow: 0px 0px 15px 3px rgba(69, 69, 69, 0.65);
+  border: 4px solid rgb(255, 255, 255);
+  /* background-color: aliceblue; */
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgb(18, 45, 70) 0%,
+    rgba(30, 72, 112, 1) 20%,
+    rgb(33, 78, 121) 50%,
+    rgba(30, 72, 112, 1) 80%,
+    rgb(18, 45, 70) 100%
+  );
+  padding: 1rem;
+  text-align: center;
+  /* width: 400px; */
+  color: white;
+  border-radius: 15px;
+}
+
+.logo {
+  border: 4px solid rgb(202, 202, 202);
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+}
+
+.logo:hover {
+  transform: perspective(70deg);
+}
+
+.form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  margin-bottom: 1rem;
+  padding: 0.6rem 1rem;
+  border: 4px solid white;
+  border-radius: 6px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 4px 1.5px rgba(69, 69, 69, 0.65) inset;
+  -webkit-box-shadow: 0px 0px 4px 1.5px rgba(69, 69, 69, 0.65) inset;
+  -moz-box-shadow: 0px 0px 4px 1.5px rgba(69, 69, 69, 0.65) inset;
+}
+
+.submit {
+  background-color: rgb(223, 222, 222);
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  font-family: 500;
+  transition: all ease 0.3s;
+}
+
+.submit:hover {
+  cursor: pointer;
+  background-color: rgb(236, 236, 236);
+}
+
+.btn {
+  background-color: rgb(223, 222, 222);
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  font-family: 500;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: rgb(236, 236, 236);
+}
+
+.textLeft {
+  text-align: left;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.verifyBtn {
+  background-color: rgb(223, 222, 222);
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  font-family: 500;
+  margin-bottom: 1rem;
+}
+
+.verifyBtn:hover {
+  cursor: pointer;
+  background-color: rgb(236, 236, 236);
+}
+
+/*Responsive*/
+@media (min-width: 500px) {
+  .containerHomepage {
+    background-color: brown;
+    width: 400px;
+  }
+}
