@@ -15,7 +15,7 @@ const sendEmail = require('./sendEmail');
 
 const register = async (req, res) => {
   // const origin = 'https://certificate-generator-en.herokuapp.com';
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
