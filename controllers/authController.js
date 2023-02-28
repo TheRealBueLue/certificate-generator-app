@@ -44,7 +44,7 @@ const register = async (req, res) => {
 };
 
 const register2 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
@@ -79,7 +79,7 @@ const register2 = async (req, res) => {
 };
 
 const register3 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
@@ -114,7 +114,7 @@ const register3 = async (req, res) => {
 };
 
 const register4 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
@@ -149,7 +149,7 @@ const register4 = async (req, res) => {
 };
 
 const register5 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
@@ -184,7 +184,7 @@ const register5 = async (req, res) => {
 };
 
 const register6 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
@@ -219,7 +219,7 @@ const register6 = async (req, res) => {
 };
 
 const register7 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
@@ -254,7 +254,7 @@ const register7 = async (req, res) => {
 };
 
 const register8 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
@@ -289,7 +289,7 @@ const register8 = async (req, res) => {
 };
 
 const register9 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
@@ -324,7 +324,7 @@ const register9 = async (req, res) => {
 };
 
 const register10 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
@@ -359,7 +359,7 @@ const register10 = async (req, res) => {
 };
 
 const register11 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
@@ -394,7 +394,7 @@ const register11 = async (req, res) => {
 };
 
 const register12 = async (req, res) => {
-  const origin = 'https://certificate-generator-6kkh.onrender.com';
+  const origin = 'https://certificate-generator-51cl.onrender.com';
   const messageMail = `Please confirm your email by clicking on the following link : <a href="${origin}/register">Verify Email</a>`;
 
   try {
