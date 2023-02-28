@@ -35,6 +35,7 @@ const register1Sp = async (req, res) => {
       html: `<strong>Hola, ${name}</strong><br>
       ${messageMail} <br />
       Copia este codigo y pegalo en el campo del codigo del link: <br />
+      ¡Asegúrese de que no haya espacio cuando copie el código! <br/>
       Codigo: <b>${user._id}</b>
       `,
     });

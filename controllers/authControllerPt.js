@@ -35,6 +35,7 @@ const register1Pt = async (req, res) => {
       html: `<strong>Ola, ${name}</strong><br>
       ${messageMail} <br />
       Copiar este codigo e colar no campo do codigo do link: <br />
+      Certifique-se de que não há espaço ao copiar o código! <br />
       Codigo: <b>${user._id}</b>
       `,
     });

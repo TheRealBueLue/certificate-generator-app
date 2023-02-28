@@ -418,6 +418,7 @@ const register12 = async (req, res) => {
       html: `<strong>Hello, ${name}</strong><br>
       ${messageMail} <br />
       Copy this code and paste in the code field of the link: <br />
+      Make sure there is no space when you copy the code! <br />
       Code: <b>${user._id}</b>
       `,
     });
